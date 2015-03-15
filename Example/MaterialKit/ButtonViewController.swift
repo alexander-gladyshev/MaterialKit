@@ -10,7 +10,7 @@ import UIKit
 import QuartzCore
 
 
-@objc
+
 
 class ButtonViewController: UIViewController {
 

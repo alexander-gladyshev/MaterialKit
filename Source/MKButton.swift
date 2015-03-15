@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+@objc
 @IBDesignable
 public class MKButton : UIButton
 {
